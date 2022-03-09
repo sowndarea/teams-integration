@@ -1,0 +1,27 @@
+{"properties": [
+  {
+    "name": "teams.client_id",
+    "type": "java.lang.String",
+    "description": "A description for 'teams.client_id'"
+  },
+  {
+    "name": "teams.scope",
+    "type": "java.lang.String",
+    "description": "A description for 'teams.scope'"
+  },
+  {
+    "name": "teams.client_secret",
+    "type": "java.lang.String",
+    "description": "A description for 'teams.client_secret'"
+  },
+  {
+    "name": "teams.grant_type",
+    "type": "java.lang.String",
+    "description": "A description for 'teams.grant_type'"
+  },
+  {
+    "name": "teams.user.token",
+    "type": "java.lang.String",
+    "description": "A description for 'teams.user.token'"
+  }
+]}
